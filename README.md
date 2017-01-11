@@ -19,6 +19,9 @@
     - [Practical Machine Learning](https://www.safaribooksonline.com/library/view/practical-machine-learning/9781784399689/)
 
 ##Novice
+  - Get started with [Python](https://www.python.org/)
+    - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc…
+  - Start a small project for creating a Python Web Crawler application and a RestFul Service to explore data stored
   - Install and practice libraries
     - [pip](https://pypi.python.org/pypi/pip)
     - [asyncio](https://docs.python.org/3/library/asyncio.html)
