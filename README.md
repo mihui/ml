@@ -45,6 +45,7 @@
       - [sympy](http://www.sympy.org/), symbolic mathematics
       - [matplotlib](http://matplotlib.org/), comprehensive 2D/3D plotting
       - [ipython](http://ipython.org/), enhanced interactive console
+  - Study [scikit-learn](http://scikit-learn.org), read documentation and summarize the capabilities of [scikit-learn](http://scikit-learn.org)
   - [Linear Regression example in Python](http://scipy-cookbook.readthedocs.io/items/LinearRegression.html)
   - [Linear Regression using scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
   - [Logistic Regression using scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
@@ -56,7 +57,6 @@
   - **Start a project to implement a simpler algorithm like a perceptron, k-nearest neighbour or linear regression. Write little programs to demystify methods and learn all the micro-decisions required to make it work**
 
 ##Intemediate
-  - Study [scikit-learn](http://scikit-learn.org), read documentation and summarize the capabilities of [scikit-learn](http://scikit-learn.org)
   - Study one of the Machine Learning Dataset from [data.gov](https://www.data.gov/)
     - Clearly describe the problem that the dataset represents
     - Summarize the data using descriptive statistics
@@ -69,10 +69,10 @@
   - Study Neural Networks in Python
     - [Implementing a Neural Network from scratch in Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
     - [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
-    - Get to know the Neural Networks libraries
+    - Get familiar with the Neural Networks libraries
       - Caffe
       - Theano
-      - TensorFlow
+      - [TensorFlow](http://tensorflow.org/)
       - Lasagne
       - Keras
       - mxnet
@@ -83,15 +83,17 @@
       - deepy
       - pylearn2
       - Deeplearning4j
-    - [Rest in Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
+    - [Check rest of Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
 
 ##Advanced
+  - Deep Learning
+    - 
   - Deep Learning With Python
-    - Study [Tensorflow](https://www.tensorflow.org/)
+    - Study [TensorFlow](https://www.tensorflow.org/)
     - Study [Keras](https://keras.io/), a high-level neural networks library, which allows for easy and fast prototyping (through total modularity, minimalism, and extensibility)
   - Books
     - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/)
-  - TensorFlow knowledge points
+  - [TensorFlow](https://www.tensorflow.org/) knowledge points
     - Graph, Session, Variable, Fetch, Feed, TensorBoard, Playground, MNIST Practice, APIs
     - Linear Regression, Logistic Regression Modeling and Training
     - Gradients and the back propagation algorithm, Activation Functions
