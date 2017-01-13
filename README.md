@@ -1,9 +1,12 @@
-# Machine Learning Learning Roadmap
-##Beginner
+# Machine Learning & Deep Learning Roadmap
 
+##Beginner
 - Introductions
   - [Interview with Tom Mitchell](http://videolectures.net/mlas06_mitchell_itm/)
+  - [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
   - [Data Mining Vs Artificial Intelligence Vs Machine Learning](http://upfrontanalytics.com/data-mining-vs-artificial-intelligence-vs-machine-learning/)
+- Get started with [Python](https://www.python.org/)
+    - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc…
 - Machine Learning Resources for Getting Started
   - Online Video Course
     - [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -16,8 +19,7 @@
     - [Machine Learning, 2nd Edition](https://www.safaribooksonline.com/library/view/machine-learning-2nd/9781466583283/)
     - [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.safaribooksonline.com/library/view/data-mining-practical/9780123748560/)
     - [Practical Machine Learning](https://www.safaribooksonline.com/library/view/practical-machine-learning/9781784399689/)
-  - Get started with [Python](https://www.python.org/)
-    - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc…
+
   - **Complete at least the Online Video Course**
   - **Start a small project for creating a Python Web Crawler application and a RestFul Service to explore data stored**
 
@@ -58,6 +60,16 @@
   - **Start a project to implement a simpler algorithm like a perceptron, k-nearest neighbour or linear regression. Write little programs to demystify methods and learn all the micro-decisions required to make it work**
 
 ##Intemediate
+  - Online Video Courses
+    - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+  - Books
+    - [Deep Learning](http://www.deeplearningbook.org/)
+    - [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+    - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+  - Papers
+    - [ImageNet Classification with Deep Convolutional
+Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+    - [Deep Learning in a Nutshell: Core Concepts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
   - Study one of the Machine Learning Dataset from [data.gov](https://www.data.gov/)
     - Clearly describe the problem that the dataset represents
     - Summarize the data using descriptive statistics
@@ -69,16 +81,6 @@
   - **Try to port an open source algorithm code from one language to another**
 
 ##Advanced
-  - Online Video Courses
-    - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-  - Books
-    - [Deep Learning](http://www.deeplearningbook.org/)
-    - [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
-    - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-  - Papers
-    - [ImageNet Classification with Deep Convolutional
-Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-    - [Deep Learning in a Nutshell: Core Concepts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
   - Study Neural Networks in Python
     - [Implementing a Neural Network from scratch in Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
     - [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
