@@ -1,6 +1,8 @@
 # Machine Learning & Deep Learning Roadmap
 
 ##Beginner
+Understand basic concepts, learn Python, and be able to differenciate Machine Learning, Data Mining and Deep Learning
+
 - Introductions
   - [Interview with Tom Mitchell](http://videolectures.net/mlas06_mitchell_itm/)
   - [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
@@ -24,6 +26,9 @@
   - **Start a small project for creating a Python Web Crawler application and a RestFul Service to explore data stored**
 
 ##Novice
+
+Get familiar with Python Machine Learning libraries
+
   - Install and practice Python libraries
     - [pip](https://pypi.python.org/pypi/pip)
     - [asyncio](https://docs.python.org/3/library/asyncio.html)
@@ -60,6 +65,9 @@
   - **Start a project to implement a simpler algorithm like a perceptron, k-nearest neighbour or linear regression. Write little programs to demystify methods and learn all the micro-decisions required to make it work**
 
 ##Intemediate
+
+Learn Neural Networks and understand Deep Learning
+
   - Online Video Courses
     - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
   - Books
@@ -67,8 +75,7 @@
     - [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
   - Papers
-    - [ImageNet Classification with Deep Convolutional
-Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+    - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
     - [Deep Learning in a Nutshell: Core Concepts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
   - Study one of the Machine Learning Dataset from [data.gov](https://www.data.gov/)
     - Clearly describe the problem that the dataset represents
@@ -81,6 +88,9 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
   - **Try to port an open source algorithm code from one language to another**
 
 ##Advanced
+
+Get to know the Python Frameworks for Deep Learning, and focus on TensorFlow
+
   - Study Neural Networks in Python
     - [Implementing a Neural Network from scratch in Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
     - [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -97,6 +107,13 @@ Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-d
     - Study [Keras](https://keras.io/), a high-level neural networks library, which allows for easy and fast prototyping (through total modularity, minimalism, and extensibility)
   - Books
     - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/)
+    - [First Contact with TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
+    - [Getting started](https://www.safaribooksonline.com/library/view/getting-started-with/9781786468574/)
+  - Videos
+    - [Videos from TensorFlow Silicon Valley Meetup, Jan 19, 2016](https://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
+    - [Videos from TensorFlow Seattle Meetup, Jan 21, 2016](https://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
+  - Code Samples
+    - [Learning TensorFlow](https://github.com/chetannaik/learning_tensorflow)
   - [TensorFlow](https://www.tensorflow.org/) knowledge points
     - Graph, Session, Variable, Fetch, Feed, TensorBoard, Playground, MNIST Practice, APIs
     - Linear Regression, Logistic Regression Modeling and Training
