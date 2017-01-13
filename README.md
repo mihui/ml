@@ -8,7 +8,7 @@ Understand basic concepts, learn Python, and be able to differenciate Machine Le
   - [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
   - [Data Mining Vs Artificial Intelligence Vs Machine Learning](http://upfrontanalytics.com/data-mining-vs-artificial-intelligence-vs-machine-learning/)
 - Get started with [Python](https://www.python.org/)
-    - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc…
+    - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc......
 - Machine Learning Resources for Getting Started
   - Online Video Course
     - [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning)
