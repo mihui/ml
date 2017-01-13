@@ -108,7 +108,7 @@ Get to know the Python Frameworks for Deep Learning, and focus on TensorFlow
   - Books
     - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781491962282/)
     - [First Contact with TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/)
-    - [Getting started](https://www.safaribooksonline.com/library/view/getting-started-with/9781786468574/)
+    - [Getting started with TensorFlow](https://www.safaribooksonline.com/library/view/getting-started-with/9781786468574/)
   - Videos
     - [Videos from TensorFlow Silicon Valley Meetup, Jan 19, 2016](https://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
     - [Videos from TensorFlow Seattle Meetup, Jan 21, 2016](https://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
