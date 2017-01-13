@@ -1,13 +1,12 @@
 # Machine Learning Learning Roadmap
 ##Beginner
 
-- Introductions from Books: 
-- Videos: 
+- Introductions
   - [Interview with Tom Mitchell](http://videolectures.net/mlas06_mitchell_itm/)
+  - [Data Mining Vs Artificial Intelligence Vs Machine Learning](http://upfrontanalytics.com/data-mining-vs-artificial-intelligence-vs-machine-learning/)
 - Machine Learning Resources for Getting Started
-  - Online Video Courses
+  - Online Video Course
     - [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning)
-    - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
   - Overview Papers
     - [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)
     - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
@@ -17,11 +16,12 @@
     - [Machine Learning, 2nd Edition](https://www.safaribooksonline.com/library/view/machine-learning-2nd/9781466583283/)
     - [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.safaribooksonline.com/library/view/data-mining-practical/9780123748560/)
     - [Practical Machine Learning](https://www.safaribooksonline.com/library/view/practical-machine-learning/9781784399689/)
-
-##Novice
   - Get started with [Python](https://www.python.org/)
     - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc…
-  - Start a small project for creating a Python Web Crawler application and a RestFul Service to explore data stored
+  - **Complete at least the Online Video Course**
+  - **Start a small project for creating a Python Web Crawler application and a RestFul Service to explore data stored**
+
+##Novice
   - Install and practice Python libraries
     - [pip](https://pypi.python.org/pypi/pip)
     - [asyncio](https://docs.python.org/3/library/asyncio.html)
@@ -40,12 +40,13 @@
         - [Machine Learning with scikit learn tutorial](http://amueller.github.io/sklearn_tutorial)
     - [scikit-learn](http://scikit-learn.org) is built upon the [scipy](http://www.scipy.org/) (Scientific Python) includes:
       - [numpy](http://www.numpy.org/), base n-dimensional array package
+        - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
       - [scipy](http://www.scipy.org/), fundamental library for scientific computing
       - [pandas](http://pandas.pydata.org/), data structures and analysis
       - [sympy](http://www.sympy.org/), symbolic mathematics
       - [matplotlib](http://matplotlib.org/), comprehensive 2D/3D plotting
       - [ipython](http://ipython.org/), enhanced interactive console
-  - Study [scikit-learn](http://scikit-learn.org), read documentation and summarize the capabilities of [scikit-learn](http://scikit-learn.org)
+  - **Study [scikit-learn](http://scikit-learn.org), read documentation and summarize the capabilities of [scikit-learn](http://scikit-learn.org)**
   - [Linear Regression example in Python](http://scipy-cookbook.readthedocs.io/items/LinearRegression.html)
   - [Linear Regression using scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
   - [Logistic Regression using scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
@@ -65,29 +66,30 @@
     - Tune well-performing algorithms and discover the algorithm and algorithm configuration that performs well on the problem
 
   - Design small experiments using the Datasets for studying Linear Regression, or Logistic Regression, then answer a specific question and report results
-  - Try to port an open source algorithm code from one language to another
+  - **Try to port an open source algorithm code from one language to another**
+
+##Advanced
+  - Online Video Courses
+    - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+  - Books
+    - [Deep Learning](http://www.deeplearningbook.org/)
+    - [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+    - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+  - Papers
+    - [ImageNet Classification with Deep Convolutional
+Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+    - [Deep Learning in a Nutshell: Core Concepts](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
   - Study Neural Networks in Python
     - [Implementing a Neural Network from scratch in Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
     - [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
     - Get familiar with the Neural Networks libraries
-      - Caffe
-      - Theano
-      - [TensorFlow](http://tensorflow.org/)
-      - Lasagne
-      - Keras
-      - mxnet
-      - sklearn-theano
-      - nolearn
-      - DIGITS
-      - Blocks
-      - deepy
-      - pylearn2
-      - Deeplearning4j
+      - Caffe, a deep learning framework made with expression, speed, and modularity in mind
+      - Theano, CPU/GPU symbolic expression compiler in python
+      - [TensorFlow](http://tensorflow.org/), an open source software library for numerical computation using data flow graphs
+      - Lasagne, a lightweight library to build and train neural networks in Theano
+      - Keras...... check the links below:
+    - [Deep Learning Software Links](http://deeplearning.net/software_links/)
     - [Check rest of Deep Learning Libraries by Language](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)
-
-##Advanced
-  - Deep Learning
-    - 
   - Deep Learning With Python
     - Study [TensorFlow](https://www.tensorflow.org/)
     - Study [Keras](https://keras.io/), a high-level neural networks library, which allows for easy and fast prototyping (through total modularity, minimalism, and extensibility)
@@ -100,4 +102,3 @@
     - CNN, RNN and LSTM, DNN
     - Unsupervised Learning, Restricted Boltzmann Machine and Collaborative Filtering with RBM
     - Auto-encoders, Deep Belief Network, GPU programming and serving
- 
