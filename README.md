@@ -6,7 +6,9 @@ Understand basic concepts, learn Python, and be able to differenciate Machine Le
 - Introductions
   - [Interview with Tom Mitchell](http://videolectures.net/mlas06_mitchell_itm/)
   - [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+  - [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
   - [Data Mining Vs Artificial Intelligence Vs Machine Learning](http://upfrontanalytics.com/data-mining-vs-artificial-intelligence-vs-machine-learning/)
+  - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - Get started with [Python](https://www.python.org/)
     - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc......
 - Machine Learning Resources for Getting Started
@@ -50,6 +52,7 @@ Get familiar with Python Machine Learning libraries
         - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
       - [scipy](http://www.scipy.org/), fundamental library for scientific computing
       - [pandas](http://pandas.pydata.org/), data structures and analysis
+        - [Python For Data Science Cheat Sheet](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
       - [sympy](http://www.sympy.org/), symbolic mathematics
       - [matplotlib](http://matplotlib.org/), comprehensive 2D/3D plotting
       - [ipython](http://ipython.org/), enhanced interactive console
@@ -62,6 +65,8 @@ Get familiar with Python Machine Learning libraries
   - [Logistic Regression and Gradient Descent (Notebook)](http://nbviewer.jupyter.org/github/tfolkman/learningwithdata/blob/master/Logistic%20Gradient%20Descent.ipynb)
   - [Regression analysis using Python StatsModels package](http://www.turingfinance.com/regression-analysis-using-python-statsmodels-and-quandl/)
   - [k Nearest Neighbours in Python](http://scikit-learn.org/stable/modules/neighbors.html)
+  - [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
+  - [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
   - **Start a project to implement a simpler algorithm like a perceptron, k-nearest neighbour or linear regression. Write little programs to demystify methods and learn all the micro-decisions required to make it work**
 
 ##Intemediate
