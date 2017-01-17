@@ -127,4 +127,4 @@ Get to know the Python Frameworks for Deep Learning, and focus on TensorFlow
     - Unsupervised Learning, Restricted Boltzmann Machine and Collaborative Filtering with RBM
     - Auto-encoders, Deep Belief Network, GPU programming and serving
 
-####Version 0.3, by Michael
+>#####Version 0.3, by Michael
