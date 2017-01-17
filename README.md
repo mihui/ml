@@ -126,3 +126,5 @@ Get to know the Python Frameworks for Deep Learning, and focus on TensorFlow
     - CNN, RNN and LSTM, DNN
     - Unsupervised Learning, Restricted Boltzmann Machine and Collaborative Filtering with RBM
     - Auto-encoders, Deep Belief Network, GPU programming and serving
+
+####Version 0.3, by Michael
