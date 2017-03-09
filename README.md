@@ -13,8 +13,8 @@ Understand basic concepts, learn Python, and be able to differenciate Machine Le
     - Syntax, data types, strings, control flow, functions, classes, exceptions, networking, asynchronous task, function decorator, annotation, context manager, multiprocessing etc......
 - Machine Learning Resources for Getting Started
   - Online Video Course
-    - [University of Washington Machine Learning](https://www.coursera.org/specializations/machine-learning)
-    - [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning)
+    - [Build Intelligent Applications](https://www.coursera.org/specializations/machine-learning) (Python)
+    - [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning) (Octave)
   - Overview Papers
     - [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)
     - [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
