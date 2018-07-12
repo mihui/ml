@@ -1,6 +1,6 @@
 # Machine Learning & Deep Learning Roadmap
 
-##Beginner
+## Beginner
 Understand basic concepts, learn Python, and be able to differenciate Machine Learning, Data Mining and Deep Learning
 
 - Introductions
@@ -28,7 +28,7 @@ Understand basic concepts, learn Python, and be able to differenciate Machine Le
   - **Complete at least the Online Video Course**
   - **Start a small project for creating a Python Web Crawler application and a RestFul Service to explore data stored**
 
-##Novice
+## Novice
 
 Get familiar with Python Machine Learning libraries
 
@@ -70,7 +70,7 @@ Get familiar with Python Machine Learning libraries
   - [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
   - **Start a project to implement a simpler algorithm like a perceptron, k-nearest neighbour or linear regression. Write little programs to demystify methods and learn all the micro-decisions required to make it work**
 
-##Intemediate
+## Intemediate
 
 Learn Neural Networks and understand Deep Learning
 
@@ -93,7 +93,7 @@ Learn Neural Networks and understand Deep Learning
   - Design small experiments using the Datasets for studying Linear Regression, or Logistic Regression, then answer a specific question and report results
   - **Try to port an open source algorithm code from one language to another**
 
-##Advanced
+## Advanced
 
 Get to know the Python Frameworks for Deep Learning, and focus on TensorFlow
 
@@ -128,4 +128,4 @@ Get to know the Python Frameworks for Deep Learning, and focus on TensorFlow
     - Unsupervised Learning, Restricted Boltzmann Machine and Collaborative Filtering with RBM
     - Auto-encoders, Deep Belief Network, GPU programming and serving
 
->#####Version 0.3, by Michael
+> *Version 0.3, by Michael*
