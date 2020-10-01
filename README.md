@@ -70,7 +70,7 @@ Get familiar with Python Machine Learning libraries
   - [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
   - **Start a project to implement a simpler algorithm like a perceptron, k-nearest neighbour or linear regression. Write little programs to demystify methods and learn all the micro-decisions required to make it work**
 
-## Intemediate
+## Intermediate
 
 Learn Neural Networks and understand Deep Learning
 
