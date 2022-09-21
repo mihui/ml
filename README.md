@@ -1,9 +1,9 @@
 # Machine Learning & Deep Learning Roadmap
 
 ## Beginner
-Understand basic concepts, learn Python, and be able to differenciate Machine Learning, Data Mining and Deep Learning
+Understand basic concepts, learn Python, and be able to differentiate Machine Learning, Data Mining and Deep Learning
 
-- Introductions
+- Introduction:
   - [Interview with Tom Mitchell](http://videolectures.net/mlas06_mitchell_itm/)
   - [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
   - [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
@@ -70,7 +70,7 @@ Get familiar with Python Machine Learning libraries
   - [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
   - **Start a project to implement a simpler algorithm like a perceptron, k-nearest neighbour or linear regression. Write little programs to demystify methods and learn all the micro-decisions required to make it work**
 
-## Intemediate
+## Intermediate
 
 Learn Neural Networks and understand Deep Learning
 
